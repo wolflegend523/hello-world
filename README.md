@@ -2,4 +2,6 @@
 
 hello I am Cordelia
 
-I like Robotics and Art 
+I like Robotics and Cats
+
+I also Like to Draw 
